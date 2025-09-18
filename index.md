@@ -19,6 +19,6 @@ site:
 
 <div style="text-align: center", font-size: 1.2em>
 
-    Freek Pols, Luuk Fröling, Robert Lanzafame, Kirstie Whitaker
+    Your names
 
 </div>
