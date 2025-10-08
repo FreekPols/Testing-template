@@ -1,4 +1,4 @@
-# Lesson 1: Make your own content
+# Lesson 1: I made my first edit
 
 ## Anatomy of a Jupyter Book 2
 
