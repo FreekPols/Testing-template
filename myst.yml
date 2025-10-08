@@ -46,6 +46,7 @@ project:
         - file: Content/Lessons/Lesson2.md
         - file: Content/Lessons/Lesson3.ipynb
         - file: Content/Lessons/Lesson4.md
+        - file: Content/Lessons/newfile.md
     - file: Content/Software.md
     
 site:
